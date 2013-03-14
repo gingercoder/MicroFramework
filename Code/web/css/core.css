@@ -1,0 +1,19 @@
+/* 
+* Core MicroFramework Stylesheet
+*
+*/
+
+root { 
+    display: block;
+}
+
+.blocksBgnd{
+    background-image: url('/web/img/MicroFrameworkBlur.png');
+}
+
+footer{
+    display: block;
+    text-align:center;
+    color: #ccc;
+    font-size: 0.8em;
+}
