@@ -36,7 +36,7 @@
         require_once('src/core/database/mysql.php');
 
         // Load the application settings from the database
-        $myApp = $ObjFramework->getAppSettings();
+        require_once('src/core/settings/loadAppSettings.php');
         
         
         
